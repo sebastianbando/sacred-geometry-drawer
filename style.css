@@ -1,6 +1,7 @@
 body {
     background:#dbdbdb;
 }
-#myCanvas {
+#drawing {
     background:white;
+    display:inline-block;
 }
